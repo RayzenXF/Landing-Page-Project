@@ -112,3 +112,12 @@ a {
     color: #1F2937;
     font-weight: 900px;
 }
+
+.wrapper-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+
