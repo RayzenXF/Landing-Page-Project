@@ -15,7 +15,7 @@ ul {
 
 a {
     text-decoration: none;
-    color: #E5E7EB;
+    color: #a9a9a9;
     font-size: 18px;
 }
 
@@ -77,4 +77,13 @@ a {
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900px;
+    margin-bottom: 0;
+}
+
+.hero-subtitle {
+    color: #a9a9a9;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    max-width: 900px;
 }
