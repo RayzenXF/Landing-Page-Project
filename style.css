@@ -210,3 +210,15 @@ a {
     font-weight: bold;  
     cursor: pointer;
 }
+
+/* -- FOOTER -- */
+
+.footer {
+    background-color: #1F2937;
+    padding: 20px 15%;
+    color: #F9FAF8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+}
