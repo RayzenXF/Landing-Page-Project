@@ -97,3 +97,10 @@ a {
     font-size: 20px;
     font-weight: bold;
 }
+
+/* -- MAIN SECTION -- */
+
+.main {
+    padding: 100px 20%;
+    text-align: center;
+}
