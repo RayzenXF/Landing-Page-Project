@@ -19,6 +19,8 @@ a {
     font-size: 18px;
 }
 
+/* -- HEADER -- */
+
 .header {
     padding: 20px 15%;
 }
@@ -38,3 +40,5 @@ a {
     font-size: 24px;
     color: #F9FAF8;
 }
+
+/* -- HERO -- */
