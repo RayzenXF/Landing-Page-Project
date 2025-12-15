@@ -20,10 +20,16 @@ a {
 }
 
 .header {
-    padding: 20px 10%;
+    padding: 20px 15%;
 }
 
 .header, .hero {
     background-color: #1F2937;
     color: #E5E7EB;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
