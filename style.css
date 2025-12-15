@@ -73,3 +73,8 @@ a {
     border-radius: 20px;
 }
 
+.hero-title {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900px;
+}
