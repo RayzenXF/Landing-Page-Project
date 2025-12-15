@@ -96,6 +96,7 @@ a {
     border-radius: 10px;
     font-size: 20px;
     font-weight: bold;
+    cursor: pointer;
 }
 
 /* -- MAIN SECTION -- */
