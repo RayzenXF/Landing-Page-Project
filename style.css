@@ -2,3 +2,19 @@ body {
     font-family: "Roboto";
     margin: 0;
 }
+
+ul {
+    list-style: none;
+
+    display: flex;
+    gap: 10px;
+
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
