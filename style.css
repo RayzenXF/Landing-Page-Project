@@ -140,3 +140,29 @@ a {
 .text {
     font-size: 18px;
 }
+
+/* -- QUOTE -- */
+
+.quote-container {
+    background-color: #E5E7EB;
+    padding: 50px 10%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.author {
+    color: black;
+    font-weight: bold;
+    text-align: right;
+    font-size: 20px;
+    margin: 20px 10px;
+}
