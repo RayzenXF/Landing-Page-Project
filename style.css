@@ -166,3 +166,46 @@ a {
     font-size: 20px;
     margin: 20px 10px;
 }
+
+/* -- SIGN UP CONTAINER -- */
+
+.sign-up-container {
+    padding: 100px 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sign-up-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 70px;
+    background-color: #3882F6;
+    padding: 50px 100px;
+    border: none;
+    border-radius: 10px;
+    color: #F9FAF8;
+    text-align: left;
+}
+
+.sign-up-title {
+    font-size: 20px;
+    margin: 5px 0;
+}
+
+.sign-up-text {
+    font-size: 18px;
+    margin: 0;
+}
+
+.sign-up-btn {
+    background-color: #3882F6;
+    padding: 10px 25px;
+    color: #E5E7EB;
+    border: 2px solid #E5E7EB;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;  
+    cursor: pointer;
+}
